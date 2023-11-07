@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//sindhurajesh123.github.io/Dictionary/static/css/main.869194d0.css",
+    "main.js": "/http//sindhurajesh123.github.io/Dictionary/static/js/main.6b75c214.js",
+    "static/js/787.d4aba7ab.chunk.js": "/http//sindhurajesh123.github.io/Dictionary/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/http//sindhurajesh123.github.io/Dictionary/index.html",
+    "main.869194d0.css.map": "/http//sindhurajesh123.github.io/Dictionary/static/css/main.869194d0.css.map",
+    "main.6b75c214.js.map": "/http//sindhurajesh123.github.io/Dictionary/static/js/main.6b75c214.js.map",
+    "787.d4aba7ab.chunk.js.map": "/http//sindhurajesh123.github.io/Dictionary/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.869194d0.css",
+    "static/js/main.6b75c214.js"
+  ]
+}
