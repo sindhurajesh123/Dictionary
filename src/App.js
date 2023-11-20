@@ -3,6 +3,7 @@ import './App.css';
 import Axios from "axios";
 import {FaSearch}from"react-icons/fa";
 import{FcSpeaker}from"react-icons/fc";
+
 function App() {
 
   const[data,setData] = useState("");
@@ -22,6 +23,9 @@ function App() {
   return (
     <>
     <div className="App">
+    
+                
+            
       <h1>Free Dictionery</h1>
       <div className="searchBox">
         <input type="text" placeholder="Search..." onChange={(e)=>{
